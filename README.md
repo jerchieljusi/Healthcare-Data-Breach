@@ -102,7 +102,8 @@ SELECT * FROM dbo.ReportTable
 
 
 ## Findings 
-*** 2015: The Year of the Healthcare Data Breach 
+***2015: The Year of the Healthcare Data Breach***
+
 Data breach in 2015 reached an all time high of **113M** cases recorded amongst any other years in the United States. According to the (HIPPA Journal)[https://www.hipaajournal.com/2015-the-year-of-the-healthcare-data-breach-8239/], 2015 was the year when Cybercriminals and hackers broke through multiple US healthcare entities defence where they stole and exposed patients' health records. 
-** Anthem, Inc.** led the TOP 10 covered entities that was hacked by contributing 46.6% to the grand total of 128M of these 10 covered entities. Which is why Healthcare plan was the highest type of entity to have this record. 
-Granted, these years dates back where cyber defense, and malware identification has not yet improved. Most of these companies had outdated systems, and medical staff did not have proper security training or multi-factor authentication like we do now. 
+
+** Anthem, Inc.** led the TOP 10 covered entities that was hacked by contributing 46.6% to the grand total of 128M of these 10 covered entities. Which is why Healthcare plan was the highest type of entity to have this record. Granted, these years dates back where cyber defense, and malware identification has not yet improved. Most of these companies had outdated systems, and medical staff did not have proper security training or multi-factor authentication like we do now. 
