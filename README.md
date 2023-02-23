@@ -1,7 +1,7 @@
 # Healthcare Data Breach
 This is exploring the healthcare data breach [dataset](https://data.world/health/health-data-breaches) from 2009-2016 provided by the Department of Health and Human Services. I used Microsoft SQL Server to remove any null values, fill in null values, and remove any unnecessary rows and columns before developing a dashboard on Tableau. 
 
-## Data Cleaning 
+## Data Wrangling
 
 I need to change the column names in a more coherent format to make it easier when selecting them for analysis. On Microsoft SQL server there are 2 ways to do this. 
 
